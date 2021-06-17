@@ -19,9 +19,10 @@ Este directorio tiene documentos anexos al proyecto donde se explican decisiones
 -DiscLib
 Este directorio contiene todo el código de base que se entrega para el funcionamiento del curso.  Dentro de este directorio encuentran:
 
-Estudiante 1: Alejandro Palomino.
-Estudiante 2: Andres Fernando Galvis.
-    
+Estudiante 1: Alejandro Palomino A.palomino@uniandes.edu.co 201913699.
+
+Estudiante 2: Andres Fernando Galvis af.galvis@uniandes.edu.co 201632930.
+
     |-- ADT:  Directorio con los Tipos Abstractos de Datos del curso
 
     |--DataStructures: Directorio con todas las estructuras de datos y archivos auxiliares para su     correcto funcionamiento
