@@ -18,6 +18,9 @@ Este directorio tiene documentos anexos al proyecto donde se explican decisiones
 
 -DiscLib
 Este directorio contiene todo el código de base que se entrega para el funcionamiento del curso.  Dentro de este directorio encuentran:
+
+Estudiante 1: Alejandro Palomino.
+Estudiante 2: Andres Fernando Galvis.
     
     |-- ADT:  Directorio con los Tipos Abstractos de Datos del curso
 
